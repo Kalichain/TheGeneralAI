@@ -9,6 +9,17 @@ theGeneral 🤖
 📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
 
 </div>
+🚩 Overview
+theGeneral builds upon Eliza OS's foundation while introducing new features focused on:
+
+Advanced AI model integration and orchestration
+Enhanced autonomous capabilities
+Improved multi-agent coordination
+Extended plugin ecosystem
+
+<div align="center">
+  <img src="./docs/static/img/thegeneral_diagram.png" alt="theGeneral Diagram" width="100%" />
+</div>
 
 ## 🌍 README Translations
 
